@@ -1,5 +1,5 @@
 # DMCLP
-Edge downgrades in the Maximal Covering Location Problem
+Instances used in the paper: Edge downgrades in the Maximal Covering Location Problem
 Authors: Marta Baldomero-Naranjo, Jörg Kalcsics, Antonio M. Rodríguez-Chía
 
 Data struture:
